@@ -1,0 +1,4 @@
+.create-ad-page {
+  min-height: calc(100vh - 70px);
+  background: #fafafa;
+}

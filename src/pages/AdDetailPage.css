@@ -1,0 +1,4 @@
+.ad-detail-page {
+  min-height: calc(100vh - 70px);
+  background: #fff;
+}
